@@ -1,5 +1,4 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-## RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 ### Name : Mena Rossini R
 ### Reg No: 212222040099
 ### Date: 19-10-24
