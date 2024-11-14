@@ -1,8 +1,8 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 ## RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Name : Mena Rossini R
-# Reg No: 212222040099
-# Date: 19-10-24
+### Name : Mena Rossini R
+### Reg No: 212222040099
+### Date: 19-10-24
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
